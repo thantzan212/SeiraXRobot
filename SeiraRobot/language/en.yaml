@@ -10,20 +10,20 @@ set_chat_lang: "Great, using {} Language it is from now on!"
 # PM Text
 pm_start_text: |
   *Hey, {} *
-  ✪ ɪ'ᴍ ᴀɴ ᴀɴɪᴍᴇ-ᴛʜᴇᴍᴇ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʀᴏʙᴏᴛ​ [✨](https://telegra.ph/file/348824c1cb7cfea58405f.jpg)
+  ✪ ɪ'ᴍ ᴀɴ ᴀɴɪᴍᴇ-ᴛʜᴇᴍᴇ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʀᴏʙᴏᴛ​ [✨](https://telegra.ph/file/00152e90d2f349f053138.jpg)
   ────────────★─────────
   × *sᴇʀᴠᴇʀ ᴜᴘᴛɪᴍᴇ​ :* `{}`
   × `{}` *ᴜsᴇʀs, ᴀᴄʀᴏss​* `{}` *ᴄʜᴀᴛs​.*
   ────────────★─────────
   ✪ ʜɪᴛ /help ᴛᴏ sᴇᴇ ᴍʏ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs​.
-  ✪ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ʙʏ :​ @xyzsethhh
+  ✪ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ʙʏ :​ @thantzin212
 group_start_text: |
-  *👋🏻 Hi , I'm Seira Robot!*
+  *👋🏻 Hi , I'm Botညီလေး Robot!*
   
   *Started active since :* `{}`
 
 pm_about_text: |
-  ✺ Hey Darling I'm *Seira Robot*, a powerful group management bot built to help you manage your group easily. ✺
+  ✺ Hey Darling I'm *Botညီလေး*, a powerful group management bot built to help you manage your group easily. ✺
 
   ✪ I can restrict users.
   ✪ I can greet users with customizable welcome messages and even set a group's rules.
@@ -52,11 +52,11 @@ pm_about_notes_text: |
   ✪ You can save message/media/audio or anything as notes to get a note simply use # at the beginning of a word
   ✪ You can also set buttons for notes and filters (refer help menu)
 pm_about_support_text: |
-  *✺ Seira Robot support chats ✺*
+  *✺ Botညီလေး support chats ✺*
 
   Join My Support Group/Channel for see or report a problem on Seira.
 pm_about_credit_text: |
-  *✺ Credis for Seira ✺*
+  *✺ Credis for Botညီလေး ✺*
 
   Here Developers Making And Give Inspiration For Made The Seira Robot
 pm_help_text: |
@@ -171,7 +171,7 @@ antispam_help: |
 
     This also integrates @Spamwatch API to remove Spammers as much as possible from your chatroom!
     *What is SpamWatch?*
-    SpamWatch maintains a large constantly updated ban-list of spambots, trolls, bitcoin spammers and unsavoury characters[.](https://telegra.ph/file/f584b643c6f4be0b1de53.jpg)
+    SpamWatch maintains a large constantly updated ban-list of spambots, trolls, bitcoin spammers and unsavoury characters[.](https://telegra.ph/file/00152e90d2f349f053138.jpg)
     Constantly help banning spammers off from your group automatically So, you wont have to worry about spammers storming your group.
     *Note:* Users can appeal spamwatch bans at @SpamwatchSupport
 approve_help: |
@@ -235,7 +235,7 @@ blacklist_help: |
 chatbot_help: |
     ──「 Chatbot AI 」──
 
-    Seira AI is the only ai system which can detect & reply upto 200 language's
+    Botညီလေး AI is the only ai system which can detect & reply upto 200 language's
 
     ❂ /chatbot [ON/OFF]: Enables and disables AI Chat mode.
     ❂ /chatbot EN : Enables English only chatbot.
@@ -538,7 +538,7 @@ info_and_afk_help: |
       - brb <reason>: Same as the afk command, but not a command. 
       
     *What is that health thingy?*
-    Come and see [HP System explained](https://t.me/KennedyProject/44)
+    Come and see [HP System explained](https://t.me/+-Gsapl_ciLYwMGNl)
 locks_help: |
     ──「 Locks 」──
 
@@ -643,7 +643,7 @@ search_help: |
     ❂ /imdb <Movie name>*:* Get full info about a movie with imdb.com
     ❂ Seira <query>*:* Seira answers the query
 
-    💡 Ex : `Seira where is Japan?`
+    💡 Ex : `Botnyilay where is Japan?`
 stickers_help: |
     ──「 Stickers 」──
 
