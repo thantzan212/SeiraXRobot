@@ -83,10 +83,10 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-SEIRA_IMG = "https://telegra.ph/file/6d3e3ef24f64fb6e35df0.jpg"
+SEIRA_IMG = "https://telegra.ph/file/00152e90d2f349f053138.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting @saint_foire \
+ You can support the project by contacting @thantzin212 \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
@@ -394,11 +394,11 @@ def seira_about_callback(update, context):
                         InlineKeyboardButton(text=gs(chat.id, "notes_button"), callback_data="seira_notes"),
                     ],
                     [
-                        InlineKeyboardButton(text=gs(chat.id, "support_chat_link_button"), callback_data="seira_support"),
-                        InlineKeyboardButton(text="Credits", callback_data="seira_credit"),
+                        InlineKeyboardButton(text=gs(chat.id, "support_chat_link_button"), callback_data="seria_support"),
+                        InlineKeyboardButton(text="Code", callback_data="seira_credit"),
                     ],
                     [
-                        InlineKeyboardButton(text=gs(chat.id, "source_button"), url="https://t.me/xyzsethhh"),
+                        InlineKeyboardButton(text=gs(chat.id, "source_button"), url="https://t.me/thantzin212"),
                     ],
                     [
                     InlineKeyboardButton(text=gs(chat.id, "back_button"), callback_data="seira_back"),
@@ -425,7 +425,7 @@ def seira_about_callback(update, context):
                             InlineKeyboardButton(text=gs(chat.id, "inline_button"), switch_inline_query_current_chat=""),
                         ],
                         [
-                            InlineKeyboardButton(text=gs(chat.id, "add_bot_to_group_button"), url="t.me/SeiraXRobot?startgroup=new"),
+                            InlineKeyboardButton(text=gs(chat.id, "add_bot_to_group_button"), url="t.me/n4nd4_hippy_bot?startgroup=new"),
                         ]
                     ]
                 ),
@@ -467,8 +467,8 @@ def seira_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text=gs(chat.id, "support_chat_link_button"), url="t.me/seirasupport"),
-                        InlineKeyboardButton(text=gs(chat.id, "updates_channel_link_button"), url="https://t.me/sethproject"),
+                        InlineKeyboardButton(text=gs(chat.id, "support_chat_link_button"), url="t.me/+-Gsapl_ciLYwMGNl"),
+                        InlineKeyboardButton(text=gs(chat.id, "updates_channel_link_button"), url="https://t.me/beginner_beginner_2015"),
                     ],
                     [
                         InlineKeyboardButton(text=gs(chat.id, "back_button"), callback_data="seira_"),
@@ -775,7 +775,7 @@ def donate(update: Update, context: CallbackContext):
             DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True
         )
 
-        if OWNER_ID != 945137470:
+        if OWNER_ID != 1688072029:
             update.effective_message.reply_text(
                 "I'm free for everyone ❤️ If you wanna make me smile, just join"
                 "[My Channel]({})".format(DONATION_LINK),
@@ -824,7 +824,7 @@ def main():
         try:
             dispatcher.bot.sendMessage(
                 f"@{SUPPORT_CHAT}", 
-                f"""**Yes Master, Seira Activated 💜**""",
+                f"""**Yes Master, Botညီလေး Activated 💜**""",
                 parse_mode=ParseMode.MARKDOWN
             )
         except Unauthorized:
