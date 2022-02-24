@@ -83,7 +83,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-SEIRA_IMG = "https://telegra.ph/file/00152e90d2f349f053138.jpg"
+SEIRA_IMG = "https://telegra.ph/file/8c278d46b852306e18231.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project by contacting @thantzin212 \
@@ -395,7 +395,7 @@ def seira_about_callback(update, context):
                     ],
                     [
                         InlineKeyboardButton(text=gs(chat.id, "support_chat_link_button"), callback_data="seria_support"),
-                        InlineKeyboardButton(text="Code", callback_data="seira_credit"),
+                        InlineKeyboardButton(text="Credits", callback_data="seira_credit"),
                     ],
                     [
                         InlineKeyboardButton(text=gs(chat.id, "source_button"), url="https://t.me/thantzin212"),
