@@ -1,5 +1,5 @@
 {
-      "name": "Seira Robot",
+      "name": "Botညီလေး",
       "description": "A Powerful Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -9,8 +9,8 @@
          "SeiraRobot"
       ],
     
-   "logo":    "https://telegra.ph/file/7d4c400729b4ff000bff6.jpg",  
-   "repository": "https://github.com/Dorimuhai/SeiraXRobot",
+   "logo":    "https://telegra.ph/file/00152e90d2f349f053138.jpg",  
+   "repository": "https://github.com/thantzan212/SeiraXRobot",
    "addons": [
           {
          "options": {
@@ -51,7 +51,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "945137470"
+         "value": "1688072029"
      },
 
       "STRING_SESSION": {
@@ -69,7 +69,7 @@
       },
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "siestaxbot"
+         "value": "n4nd4_hippy_bot"
       },
 
       "BOT_ID": {
