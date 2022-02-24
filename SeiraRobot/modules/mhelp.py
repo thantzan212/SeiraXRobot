@@ -7,7 +7,7 @@ from pyrogram import __version__ as pyrover
 from SeiraRobot.events import register as MEMEK
 from SeiraRobot import telethn as tbot
 
-PHOTO = "https://telegra.ph/file/51c4e8b6b40cd0cb66cea.jpg"
+PHOTO = "https://telegra.ph/file/00152e90d2f349f053138.jpg"
 
 @MEMEK(pattern=("/mhelp"))
 async def awake(event):
@@ -26,5 +26,5 @@ async def awake(event):
   LUNA += "• /vstop - **Untuk memberhentikan video stream yang sedang diputar** \n"
   LUNA += "• /reload - **Untuk memperbarui admin list** \n"
 
-  BUTTON = [[Button.url("☎️ Support", "https://t.me/SeiraSupport"), Button.url("📡 Updates", "https://t.me/sethproject")]]
+  BUTTON = [[Button.url("☎️ Support", "https://t.me/beginmer_2015"), Button.url("📡 Updates", "https://t.me/beginner_2015")]]
   await tbot.send_file(event.chat_id, PHOTO, caption=LUNA,  buttons=BUTTON)
