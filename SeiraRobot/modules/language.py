@@ -49,8 +49,8 @@ def set_lang(update: Update, _) -> None:
     keyb.append(
         [
             InlineKeyboardButton(
-                text="Seira With Love 💜 ",
-                url="https://t.me/SeiraXRobot",
+                text="Botညီလေး With Love 💜 ",
+                url="https://t.me/n4nd4_hippy_bot",
             )
         ]
     )
