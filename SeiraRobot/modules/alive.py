@@ -14,10 +14,10 @@ async def awake(event):
   tai = event.sender.first_name
   LUNA = "**Holla I'm Botညီလေး!** \n\n"
   LUNA += "💎 **I'm Working Properly** \n\n"
-  LUNA += "💎 **My Master : [ဘူနံခန့်★](https://t.me/olo_pl_ya_mal)** \n\n"
+  LUNA += "💎 **My Master : [ဘူနံခန့်](https://t.me/olo_pl_ya_mal)** \n\n"
   LUNA += f"💎 **Telethon Version : {tlhver}** \n\n"
   LUNA += f"💎 **Pyrogram Version : {pyrover}** \n\n"
   LUNA += "**Thank for add my Botညီလေး 💜**"
-  BUTTON = [[Button.url("Add", "https://t.me/n4nd4_hippy_bot?start=help"), Button.url("support", "https://t.me/+-Gsapl_ciLYwMGNl")]]
+  BUTTON = [[Button.url("Add Bot To Your Group", "https://t.me/n4nd4_hippy_bot?start=help"), Button.url("support", "https://t.me/+-Gsapl_ciLYwMGNl")]]
   await tbot.send_file(event.chat_id, PHOTO, caption=LUNA,  buttons=BUTTON)
 
