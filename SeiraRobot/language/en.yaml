@@ -88,7 +88,7 @@ source_button: "Chat with Owner"
 help_button: "Help"
 back_button: "Go back"
 about_button: "About Botညီလေး"
-inline_button: "Blank!​​"
+inline_button: "Inline!​​"
 
 # MODULES
 admin_help: |
@@ -588,7 +588,7 @@ musicplayer_help: |
     ──「 Musicplayer 」──
 
     Help Music can access with different command and support dashboard help and setting.
-    ❂ /mhelp - for help music module
+    ❂ /song - for download music form youtube
 
     NOTE : DON'T SPAMMING AT REQUEST SONG OR VIDEO...
 notes_help: |
