@@ -32,7 +32,7 @@ pm_about_text: |
   ✪ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
   ✪ I check for admins' permissions before executing any command and more stuffs
 
-  _Seira licensed under the GNU General Public License v3.0_
+  _Bot' licensed under the GNU General Public License v3.0_
   Click on button bellow to get basic help for Botညီလေး.
 pm_about_admin_text: |
   *✺ Let's make your group bit effective now ✺*
@@ -588,7 +588,7 @@ musicplayer_help: |
     ──「 Musicplayer 」──
 
     Help Music can access with different command and support dashboard help and setting.
-    ❂ /song - for download music form youtube
+    ❂ /lyrics - for download lyrics form youtube
 
     NOTE : DON'T SPAMMING AT REQUEST SONG OR VIDEO...
 notes_help: |
